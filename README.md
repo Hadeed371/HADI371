@@ -31,6 +31,6 @@ pkg upgrade -y
  rm -rf pro
 git clone https://github.com/Hadeed371/HADI371
 
-cd Hadi371
+cd HADI371
 
 python Hadi py
