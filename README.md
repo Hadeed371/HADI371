@@ -18,7 +18,7 @@ pkg upgrade -y
 
  pip install future -y
 
- Note install first
+
 
  
 
